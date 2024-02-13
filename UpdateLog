@@ -1,3 +1,46 @@
+UPDATE V1.08
+(French)
+Corriger un bug avec la commande toggle
+Lorsque qu'on active l'options always show, le plugin s'affiche
+(English)
+Fix a bug with the toggle command
+When you activate the always show option, the plugin is displayed
+(Deutsche)
+Beheben eines Fehlers mit dem Befehl "Umschalten"
+Wenn Sie die Option Immer anzeigen aktivieren, wird das Plugin angezeigt
+
+UPDATE V1.07
+(French)
+Réécrit complètement la partie localization
+(English)
+Completely rewrote the localization part
+(Deutsche)
+Der Lokalisierungsteil wurde komplett neu geschrieben
+
+UPDATE V1.06
+(French)
+Rajout d'une ligne commentaire dans la section d'aide
+(English)
+Adding a comment line in the help section
+(Deutsche)
+Hinzufügen einer Kommentarzeile im Hilfebereich
+
+UPDATE V1.05
+(French)
+Rajout d'une options pour garder la fenêtre toujours visible à l'écran
+(English)
+Added an option to keep the window always visible on the screen
+(Deutsche)
+Es wurde eine Option hinzugefügt, um das Fenster immer auf dem Bildschirm sichtbar zu halten
+
+UPDATE V1.04
+(French)
+Rajout d'une commande toggle
+(English)
+Addition of a toggle command
+(Deutsche)
+Hinzufügen eines Umschaltbefehls
+
 UPDATE V1.03
 (French)
 Rajout d'une ligne de commande pour activer la touche alt pour le deplacement de l'icone
