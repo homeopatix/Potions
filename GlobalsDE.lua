@@ -48,5 +48,5 @@ _G.T = {};
 	T[ "PluginOption1" ] = "Anzahl der Zeilen";
 	T[ "PluginOption2" ] = "Anzahl der Spalten";
 	T[ "PluginOption3" ] = " Fensterrand anzeigen";
-	T[ "PluginOption4" ] = " Fenster dauerhaft anzeigen";
+	T[ "PluginOption4" ] = " Fenster immer anzeigen";
 	T[ "PluginOptionValidate" ] = "Speichern";
