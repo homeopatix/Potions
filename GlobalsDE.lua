@@ -25,7 +25,7 @@ _G.T = {};
 	T[ "PluginHelp7" ] = "/pot alt - Alt-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n";
 	T[ "PluginHelp8" ] = "/pot lock Sperrt/entsperrt die Verkn\195\188pfungen.\n";
 	T[ "PluginHelp9" ] = "/pot toggle - Fenster anzeigen/ausblenden.\n";
-	T[ "PluginHelp10" ] = "/pot always - Zeigt das Fenster immer an.\n\n";
+	T[ "PluginHelp10" ] = "/pot always - Zeigt das Fenster dauerhaft an.\n\n";
 	T[ "PluginHelp11" ] = "Klicke mit der rechten Maustaste auf das Symbol, um die Optionen anzuzeigen.";
 	------------------------------------------------------------------------------------------
 	-- command text  --
@@ -47,6 +47,6 @@ _G.T = {};
 	T[ "PluginOptionsText" ] = "Potions Optionen";
 	T[ "PluginOption1" ] = "Anzahl der Zeilen";
 	T[ "PluginOption2" ] = "Anzahl der Spalten";
-	T[ "PluginOption3" ] = " Fensterrand anzeigen";
-	T[ "PluginOption4" ] = " Fenster immer anzeigen";
+	T[ "PluginOption3" ] = " Fensterrahmen anzeigen";
+	T[ "PluginOption4" ] = " Fenster dauerhaft anzeigen";
 	T[ "PluginOptionValidate" ] = "Speichern";
